@@ -4,14 +4,10 @@
 // let months = ["Yanvar", "Fevral", "Mart", "Aprel"]
 
 // function countMonth(array) {
-//     let count = [];
-//     for (let i = 0; i < array.length; i++) {
-//         let number = i + 1;
-//         let result = months[i] + "-" + number
-//         count.push(result)
 
-//     }
-//     console.log(count);
+//     let count=1;
+//     let newArr=array.map(m => m + "-" + count++)
+//     console.log(newArr);
 
 // }
 
